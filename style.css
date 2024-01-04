@@ -1,0 +1,19 @@
+body{
+    background-color: #e0f7fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.qr{
+    background-color: white;
+    padding: 20px;
+    border-radius: 12px;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.qr img{
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+}
